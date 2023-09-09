@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from Canada</h3>
 
 - 🔭 We are a hobbyist group making products to see our potential!
 
